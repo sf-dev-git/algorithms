@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "cd tests && npx mocha"
+  },
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}

@@ -1,8 +1,17 @@
 {
+  "type": "commonjs",
+  "name": "algorithms",
+  "description": "the following repo implements algorithms and their tests",
   "scripts": {
     "test": "cd tests && npx mocha"
   },
   "dependencies": {
     "mocha": "^10.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sf-dev-git/algorithms"
+  },
+  "author": "Shakeel Faraz <sfatdev@gmail.com> (https://shakeel-faraz.com/)",
+  "private": true
 }
